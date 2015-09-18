@@ -1,6 +1,6 @@
 /* 
  * File:   led.c
- * Author: gvanhoy
+ * Author: blipjanic1616
  *
  * Created on August 27, 2015, 3:15 PM
  */
